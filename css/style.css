@@ -97,7 +97,8 @@ height: 992px;
 padding: 48px 15px;
 }
 .col-4 img{
-	padding-bottom: 30px;
+	    border-radius: 8px;
+    margin-bottom: 30px;
 }
 .about-section{background: #1ABC9C;color: white;height: 745px;}
 .about-in h2{
