@@ -1,0 +1,267 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&display=swap');
+
+body{
+	font-family: 'Montserrat', sans-serif;
+}
+
+img{
+	max-width: 100%;
+
+}
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.header{background:#2C3E50 !important;padding:20px 0;color: white !important;}
+
+.font-item{
+	font-size: 20px;
+    font-weight: 600;
+}
+.navbar-brand h3{
+	    font-size: 30px;
+    font-weight: 600;
+}
+
+
+
+
+.banner-section{
+	background:#1ABC9C;
+	text-align:center;
+	padding: 27px;
+	height: 615px;
+}
+.banner-content{
+    padding: 60px 0;
+}
+.banner-content h1{
+	color:white;
+	font-size: 65px;
+	text-transform: uppercase;
+	font-weight: 700;
+	padding: 10px 0;
+}
+.banner-content span {
+	display: block;
+	height: 5px;
+	background: white;
+	width:300px;
+	margin: 40px auto;
+	border-radius: 10px;
+}
+
+.banner-content p{
+	color:white;
+	font-size: 24px;
+	font-weight: 500;
+	padding-top: 28px;
+}
+
+.banner-content img{
+	width: 20% !important;
+    margin-bottom: 30px;
+}
+
+.banner-section .div-line{
+	height: 5px;
+	width: 249px;
+	background: white;
+	border-radius: 10px;
+}
+
+
+
+.potfolio-section{
+
+height: 992px;
+}
+.col-12 h2{
+	    text-align: center;
+    padding-top: 95px;
+    font-size: 67px;
+    font-weight: 700;
+    color: #525556;
+}
+
+
+.potfolio-section .div-line{
+	height: 5px;
+	width: 180px;
+	background: #525556;
+	border-radius: 10px;
+}
+.col-4{
+	
+padding: 48px 15px;
+}
+.col-4 img{
+	padding-bottom: 30px;
+}
+.about-section{background: #1ABC9C;color: white;height: 745px;}
+.about-in h2{
+	 text-align: center;
+	 padding-top: 95px;
+	 font-size: 67px;
+	 font-weight: 700;
+	 color: white;
+	 padding-bottom: 20px;
+}
+.about-in .div-line{
+	height: 5px;
+	width: 131px;
+	background: white;
+	border-radius: 10px;
+}
+.content{
+
+padding: 52px 74px;
+}
+.content p{font-size: 23px;}
+
+
+.free-button{
+	
+color: white;
+	
+border: 2px solid white;
+	
+width: 261px;
+	
+height: 70px;
+	
+margin: auto;
+}
+
+
+.contect-section{
+
+}
+.about-contect{
+
+}
+.about-contect h1{
+	text-align: center;
+	 padding-top: 95px;
+	 font-size: 67px;
+	 font-weight: 700;
+	 color: #525556;
+	 padding-bottom: 20px;
+}
+.about-contect .div-line{
+	height: 5px;
+	width: 185px;
+	background: #525556;
+	border-radius: 10px;
+}
+
+.about-contect{padding: 0px 204px;height: 891px;}
+.form-group{
+
+height: 100px;
+
+width: 700px;
+}
+.form-control{
+
+height: 58px;
+}
+.main-form{
+	
+padding-top: 70px;
+}
+.message{
+	
+height: 95px;
+}
+.send{
+	
+padding: 15px;
+    margin: auto;
+    width: 124px;
+}
+.buton-send{
+	margin-top: 6px;
+}
+
+
+
+.footer-section{
+
+background: #2C3E50;
+
+color: white;
+}
+.footer-one{text-align: center;}
+.footer-one h2{
+
+padding-bottom: 10px;
+}
+.footer-one p{
+
+}
+.footer-two{
+
+}
+.footer-two h2{padding-bottom: 10px;}
+.footer-two ul{list-style-type: none;margin-left: 56px;}
+.footer-two ul li{padding: 5px 20px;}
+.footer-two ul li a{color: white;}
+.footer-three{
+
+text-align: center;
+}
+.footer-three h2{
+
+padding-bottom: 10px;
+}
+.footer-three p{
+
+}
+.footer-three p a{
+}
+.col-4{
+}
+.main-footer{
+
+background: #313131;
+
+height: 60px;
+}
+.main-footer p{
+	
+text-align: center;
+	
+color: white;
+	
+padding: 20px 0px;
+	
+font-size: 14px;
+	
+font-weight: 200;
+}
+.potfolio-section a:hover{
+	  opacity: .5;
+    transition: .8s cubic-bezier(0.25, 0.1, 0, 1.17)
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
